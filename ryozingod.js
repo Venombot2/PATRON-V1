@@ -3638,9 +3638,9 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                 ryozingod.sendMessage(
                   m.chat,
                   {
-                    text: `*ACCOUNT-8133729715*
+                    text: `*ACCOUNT-7031295151*
 *BANK-OPAY*
-*NAME-FADARE*`,
+*NAME-OMOLADE*`,
                   },
                   { quoted: m }
                 );
